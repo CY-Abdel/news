@@ -5,6 +5,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 import About from './pages/About';
 import Home from './pages/Home';
+import News from './pages/News';
 import NotFound from './pages/NotFound';
 
 function App() {
@@ -15,6 +16,8 @@ function App() {
 
           <Route exact path="/" element={<Home />} />
           <Route path="/a-propos" element={<About />} />
+          <Route path="/news" element={<News />} />
+
           <Route path="*" element={<NotFound />} />
 
         </Routes>

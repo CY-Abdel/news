@@ -6,12 +6,19 @@ import { NavLink } from 'react-router-dom';
 const Navigation = () => {
   return (
     <div className="navigation">
+
       <NavLink to="/" activeclassname="nav-active">
         Acceuil
       </NavLink>
+
+      <NavLink to="/news" activeclassname="nav-active">
+        News
+      </NavLink>
+      
       <NavLink to="/a-propos" activeclassname="nav-active">
         À propos
       </NavLink>
+
       {/* <NavLink exact='true' to="/" activeclassname="nav-active">
         Acceuil
       </NavLink>

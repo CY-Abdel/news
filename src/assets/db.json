@@ -1,0 +1,50 @@
+{
+  "articles": [
+    {
+      "author": "Chougar Abdel",
+      "content": "      it's fun to creat web sites with react :)",
+      "date": 1621530288602,
+      "id": 1
+    },
+    {
+      "author": "Martin Luther King",
+      "content": "I Have A Dream - Martin Luther King, 1963. 
+      I  have a dream that one day this nation will rise up and live out the true meaning of its creed: 'We hold these truths to be self-evident, that all men are created equal.'
+
+      I have a dream that one day on the red hills of Georgia, the sons of former slaves and the sons of former slave owners will be able to sit down together at the table of brotherhood.
+      
+      I have a dream that one day even the state of Mississippi, a state sweltering with the heat of injustice, sweltering with the heat of oppression, will be transformed into an oasis of freedom and justice.
+      
+      I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character.
+      
+      I have a dream today!",
+      "date": 1621536029778,
+      "id": 2
+    },
+    {
+      "author": "Nelson Mandela",
+      "content": "I am the First Accused.
+
+      I hold a Bachelor's Degree in Arts and practised as an attorney in Johannesburg for a number of years in partnership with Oliver Tambo. I am a convicted prisoner serving five years for leaving the country without a permit and for inciting people to go on strike at the end of May 1961.
+      
+      At the outset, I want to say that the suggestion made by the State in its opening that the struggle in South Africa is under the influence of foreigners or communists is wholly incorrect. I have done whatever I did, both as an individual and as a leader of my people, because of my experience in South Africa and my own proudly felt African background, and not because of what any outsider might have said.",
+      "date": 1621536056135,
+      "id": 3
+    },
+    {
+      "author": "William Lyon Phelps ",
+      "content": "Everyone should begin collecting a private library in youth; the instinct of private property, which is fundamental in human beings, can here be cultivated with every advantage and no evils. One should have one's own bookshelves, which should not have doors, glass windows, or keys; they should be free and accessible to the hand as well as to the eye. The best of mural decorations is books; they are more varied in color and appearance than any wallpaper, they are more attractive in design, and they have the prime advantage of being separate personalities, so that if you sit alone in the room in the firelight, you are surrounded with intimate friends. The knowledge that they are there in plain view is both stimulating and refreshing. You do not have to read them all. Most of my indoor life is spent in a room containing six thousand books; and I have a stock answer to the invariable question that comes from strangers. 'Have you read all of these books?'
+      'Some of them twice.' This reply is both true and unexpected. ",
+      "date": 1621536075314,
+      "id": 4
+    },
+    {
+      "author": "Franklin D Roosevelt",
+      "content": "The only thing we have to fear is fear itself.For the trust reposed in me, I will return the courage and the devotion that befit the time. I can do no less.
+
+      We face the arduous days that lie before us in the warm courage of national unity; with the clear consciousness of seeking old and precious moral values; with the clean satisfaction that comes from the stern performance of duty by old and young alike. We aim at the assurance of a rounded, a permanent national life.",
+      "date": 1621536146150,
+      "id": 5
+    }
+  ]
+}
