@@ -1,17 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import App from './App';
-import reportWebVitals from './reportWebVitals';
+
+// IMPORTER LE CSS (CODER AVC SASS)
+import "./styles/index.scss";
+// import './index.css';
 
 ReactDOM.render(
+  // eviter les bugs et erreurs avex el strict mode
   <React.StrictMode>
+    {/* ajouter tout les composants de App.js dans la page index.htlm */}
     <App />
   </React.StrictMode>,
   document.getElementById('root')
 );
-
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
