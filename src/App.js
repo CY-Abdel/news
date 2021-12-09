@@ -1,7 +1,7 @@
 // rsc + ctrl + espace
 // POUR CREER LE COMPOSANT SANS L'ECRIRE
 import React from 'react';
-import { BrowserRouter, Routes, Routes } from 'react-router-dom';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 import About from './pages/About';
 import Home from './pages/Home';
