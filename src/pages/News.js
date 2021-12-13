@@ -16,8 +16,7 @@ const News = () => {
             </form>
 
             <ul>
-               {/* ON RECUPERE LES ARTICLES DEPUIS LA DB QU'ON A CREER DANS "./assets/db.json" */}
-               
+               {/* ON  LES ARTICLES DEPUIS LA DB QU'ON A CREER DANS "./assets/db.json" */}
 
             </ul>
         </div>
